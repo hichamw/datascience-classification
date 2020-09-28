@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hicham Wakrim\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hicham Wakrim\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DataScience2Classification.-325068388.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hicham Wakrim\RiderProjects\DataScience2Classification" t="IncludeFlat">
+      <e p="DataScience2Classification" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataLoader.cs" t="Include" />
+        <e p="DataScience2Classification.csproj" t="IncludeRecursive" />
+        <e p="LinearModel.csv" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DataScience2Classification.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="RetailMart.xlsx" t="Include" />
+      </e>
+      <e p="DataScience2Classification.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
